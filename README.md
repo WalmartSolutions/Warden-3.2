@@ -2,6 +2,9 @@
 
 **Trillium INC | https://discord.gg/vzXzFpv2gk**
 
+*Download on Mediafire because this client is like 1Gb and GitHub is A$$*
+**Download: https://www.mediafire.com/file/qot3g6tk8lx56nc/WardenClient.zip/file**
+
 # Why?
 It's just a skidded af client. Nothing special, nothing new, nothing custom. People that bought this should straight up get a refund. The client contained a feature which screenshotted peoples desktop when launching it and also attempted to pull their Local IP too which is like... What? 😭. This client is just skidded af like man, I can't even wrap my head around this sh1 💀. Also forgot to mention that they used some HORRIBLE (can't even be called) obfuscator 🙏 (Sh1 was just a seethrought junkcode).
 
@@ -20,12 +23,12 @@ It's just a skidded af client. Nothing special, nothing new, nothing custom. Peo
 
 # GUI (Bind: RCtrl)
 
-![image]()
+![image](https://github.com/WalmartSolutions/Warden-3.2/blob/main/Screenshots/GUI.png?raw=true)
 
 # Hall of Autism
 
-![image]()
+![image](https://github.com/WalmartSolutions/Warden-3.2/blob/main/Screenshots/AutismCode.png?raw=true)
 
-![image]()
+![image](https://github.com/WalmartSolutions/Warden-3.2/blob/main/Screenshots/PyInstaller.png?raw=true)
 
-![image]()
+![image](https://github.com/WalmartSolutions/Warden-3.2/blob/main/Screenshots/Settings.png?raw=true)
