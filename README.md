@@ -12,7 +12,7 @@ It's just a skidded af client. Nothing special, nothing new, nothing custom. Peo
 
 # How To Use
 
-1. Download the repository.
+1. Download the file from [Mediafire link](https://www.mediafire.com/file/qot3g6tk8lx56nc/WardenClient.zip/file).
 2. Extract it into a file.
 3. Start game by running "RunWarden.bat".
 
